@@ -1,2 +1,2 @@
-# Makefile-c-
+# Makefile-c++
 Template Makefile for c++ projects
